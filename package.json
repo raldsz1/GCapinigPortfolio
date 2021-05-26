@@ -1,8 +1,9 @@
 {
-  "name": "gcapinigportfolio",
-  "version": "v14.15.4",
-  "private": true,
-  "dependencies": {
+   "name": "gcapinigportfolio",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"{
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
     "@material-ui/lab": "^4.0.0-alpha.58",
